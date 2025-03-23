@@ -1,0 +1,2 @@
+# git_test_add_a_README_3
+本远程仓库同样创建时新建一个README文件，此时远程仓库的默认分支名为main，先clone，再添加文件并push。
